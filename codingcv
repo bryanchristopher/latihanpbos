@@ -1,0 +1,60 @@
+nama = "Bryan Christopher"
+ttl = "PONTIANAK, 03-05-2002"
+jk ="LAKI - LAKI"
+goldar = "B"
+alamat = """
+    Alamat : JL TABRANI AHMAD NO. 9
+        RT/RW : 002/016
+        Kelurahan : SUNGAI JAWI DALAM
+        Kecamatan : PONTIANAK BARAT
+"""
+agama = "KATHOLIK"
+tinggi = "165cm"
+berat = "68kg"
+
+
+TK = "TK Karya Yosef"
+SD = "SD Karya Yosef"
+SMP = "SMP Katolik Santu Petrus"
+SMA = "SMA Katolik Santu Petrus"
+
+pnf = "Pendidikan Bahasa Inggris TOEFL dan IELTS"
+
+organisasi = "Orang Muda Katolik di Gereja Katredal"
+
+prestasi1 = "Juara 2 Porseni Badminton 2018"
+prestasi2 = "Juara 3 Popda Badminton 2019"
+prestasi3 = "Juara 1 Lomba Antar Gereja Badminton 2020"
+
+print("CURRICULUM VITAE \n")
+print("BIOADATA")
+print("-------------------------------------------------------")
+print("Nama : " + nama)
+print("Tempat/Tanggal Lahir : " + ttl)
+print("Jenis Kelamin : " + jk)
+print("Golongan Darah : " + goldar)
+print(alamat)
+print("Agama : " + agama)
+print("Tinggi : " + tinggi)
+print("Berat : " + berat)
+
+print("\n\nPENDIDIKAN FORMAL")
+print("-------------------------------------------------------")
+print("TK : " + TK)
+print("SD : " + SD)
+print("SMP : " + SMP)
+print("SMA : " + SMA)
+
+print("\n\nPENDIDIKAN NON-FORMAL")
+print("-------------------------------------------------------")
+print(pnf)
+
+print("\n\nORGANISASI")
+print("-------------------------------------------------------")
+print(organisasi)
+
+print("\n\nPRESTASI/PENGHARGAAN")
+print("-------------------------------------------------------")
+print(prestasi1)
+print(prestasi2)
+print(prestasi3)

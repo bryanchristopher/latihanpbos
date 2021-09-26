@@ -1,0 +1,14 @@
+nama = "1. Bryan Christopher"
+ttl = "2. Pontianak, 03-05-2002"
+gol = "3. B - Pria"
+alamat = "4. JL TABRANI AHMAD NO. 9"
+pekerjaan = "5. SWASTA"
+kepolisian = "6. METRO JAYA"
+
+print("SURAT IZIN MENGEMUDI \nTIPE : C")
+print(nama)
+print(ttl)
+print(gol)
+print(alamat)
+print(pekerjaan)
+print(kepolisian)

@@ -1,0 +1,35 @@
+nama = "Bryan Christopher"
+ttl = "PONTIANAK, 03-05-2002"
+jk ="LAKI - LAKI"
+goldar = "B"
+alamat = """
+    Alamat : JL TABRANI AHMAD NO. 9
+        RT/RW : 002/016
+        Kelurahan : SUNGAI JAWI DALAM
+        Kecamatan : PONTIANAK BARAT
+"""
+agama = "KATHOLIK"
+status = False
+pekerjaan = False
+wn = "WNI"
+exp = "SEUMUR HIDUP"
+
+print("NIK : 6173030305050000 \n \n")
+
+print("Nama : " + nama)
+print("Tempat/Tgl Lahir : " + ttl)
+print("Jenis Kelamin : " + jk)
+print(alamat)
+print("Agama : " + agama)
+if(status):
+    print("Status Perkawinan : Kawin")
+else:
+    print("Status Perkawinan : BELUM KAWIN")
+    
+if(pekerjaan):
+    print("Pekerjaan : Kerja")
+else:
+    print("Pekerjaan : BELUM/TIDAK BEKERJA")
+    
+print("Kewarganegaraan : " + wn)
+print("Berlaku hingga : " + exp)
